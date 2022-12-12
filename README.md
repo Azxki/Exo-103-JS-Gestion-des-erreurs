@@ -1,8 +1,11 @@
 # Exo-103-JS-Gestion-des-erreurs
 
 1. Créez manuellement un div dans votre code HTML et assignez-lui un id.
-2. En JS, récupérez cet élément, ou plutôt, tentez de récupérer cet élément, car vous êtes mauvais en orthographe et avez fait une erreur sur l'id de l'élément (en js )
-   Par exemple, nommez votre élément **result** dans le HTML, et tentez de récupérer **resultss** en JS.
+2. En JS, récupérez cet élément, ou plutôt, tentez de récupérer cet
+élément, car vous êtes mauvais en orthographe et avez fait une 
+erreur sur l'id de l'élément (en js )
+   Par exemple, nommez votre élément **result** dans le HTML, et 
+tentez de récupérer **resultss** en JS.
 
 3. Tentez de mettre à jour l'élément récupéré avec du texte au choix.   
 
